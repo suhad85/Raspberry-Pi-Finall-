@@ -1,1 +1,21 @@
-sow
+Statement Of Work 
+Project Name: Create a Network-Wide Ad Blocker with a Raspberry Pi
+Current Date: 4/1/ 2021
+Estimated Project Duration: 2 weeks
+Project Manager:Suhad Al Saedi
+Client: Justin Ellis
+Project Introduction
+If you want to block ads on all your devices—from your smartphone to your tablets—you’ll need something a 
+little stronger. Enter the Pi-Hole, a Raspberry Pi image that blocks ads of all sorts at the router level.
+Project Background
+This is the final project on Raspberry Pi for the CNA335 class winer 2021. 
+Purpose Statement
+The purpose of this project is using Raspberry Pi on the project for to block ads on all your devices on the router level.
+For this project I will using below steps: 
+1.	Check in 1 (March 20, 2021- March 16, 2021) research of the project.
+2.	Check in 2 (March 27, 2021- March 21, 2021) installing the program 
+3.	Check in 3 (April 01, 2021- March 23, 2021) running the program and testing.
+
+Project Requirements
+1.	Any Raspberry Pi connected to Internet
+2.      Mause, keybord, moniter.
